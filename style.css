@@ -1,14 +1,14 @@
 /* Import Fonts styles */
 @font-face {
-    src: url('../fonts/heebo/Heebo-Regular.ttf');
+    src: url('fonts/heebo/Heebo-Regular.ttf');
     font-family: heebo;
 }
 @font-face {
-    src: url('../fonts/rubik/Rubik-Regular.ttf');
+    src: url('fonts/rubik/Rubik-Regular.ttf');
     font-family: rubik;
 }
 @font-face {
-    src: url('../fonts/assistant/Assistant-Regular.ttf');
+    src: url('fonts/assistant/Assistant-Regular.ttf');
     font-family: assistant;
 }
 .heebo {
@@ -363,7 +363,7 @@ body::-webkit-scrollbar {
 /* portfolio link */
 .portfolio a {
     display: block;
-    background: center no-repeat url('../img/money.svg');
+    background: center no-repeat url('img/money.svg');
     background-size: cover;
     border-radius: 50%;
     width: 100px;
