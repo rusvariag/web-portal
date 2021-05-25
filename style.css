@@ -1,14 +1,14 @@
 /* Import Fonts styles */
 @font-face {
-    src: url('fonts/heebo/Heebo-Regular.ttf');
+    src: url('./fonts/heebo/Heebo-Regular.ttf');
     font-family: heebo;
 }
 @font-face {
-    src: url('fonts/rubik/Rubik-Regular.ttf');
+    src: url('./fonts/rubik/Rubik-Regular.ttf');
     font-family: rubik;
 }
 @font-face {
-    src: url('fonts/assistant/Assistant-Regular.ttf');
+    src: url('./fonts/assistant/Assistant-Regular.ttf');
     font-family: assistant;
 }
 .heebo {
